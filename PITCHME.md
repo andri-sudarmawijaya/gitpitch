@@ -78,19 +78,20 @@ Fleksible!
 #### <span class="gold">Dilengkapi dengan Document Management System...</span>
 [DMS Provinsi Banten](http://dms-01.dev.bantenprov.go.id/)
 #### Ditulis juga dalam format terbuka;
-#### Membuka peluang kontibusi masyarakat untuk pengembangan.
+#### Membuka peluang kontibusi masyarakat untuk pengembangan;
+#### Dapat terinterasi dengan data spasial.
 
 ---
 
-@title[Feature Rich]
+@title[Aplikasi Lainnya]
 
 ### <span class="gold">Fitur lainnya</span>
 
-#### Dapat dipresentasikan secara online maupun offline
-#### With Speaker Notes Support
-#### Dapat dicetak dalam format PDF
-#### Auto-Generated Table-of-Contents
-#### Share Presentation on Twitter or LinkedIn
+#### Portal Pemerintah Provinsi Banten  
+#### E-pormas
+#### Informasi Pelayanan Masyarakat
+#### Sistem Informasi Barang Baerah
+#### SOP Online
 
 ---
 
