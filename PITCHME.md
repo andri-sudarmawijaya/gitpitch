@@ -40,7 +40,7 @@
 
 ### <span class="gold">Dashboard Pimpinan</span>
 <br>
-[![cover-dashboard-pimpinan](images/dashboard-pimpinan-2017-11-27-11-29-15.png]
+[![dashboard-pimpinan](https://github.com/andri-sudarmawijaya/gitpitch/blob/forum-data/images/dashboard-pimpinan-2017-11-27-11-29-15.png]
 
 ```shell
 - Setiap pimpinan dapat melihat aktifitas sesuai kedudukannya;
