@@ -58,12 +58,12 @@ Fleksible!
 
 @title[Step 3. Done!]
 
-### <span class="gold">STEP 3. GET THE WORD OUT!</span>
+### <span class="gold">Banten Opendata!</span>
 <br>
-![GitPitch Slideshow URLs](assets/images/gp-slideshow-urls.png)
+![GitPitch Slideshow URLs](http://dataset.dev.bantenprov.go.id/)
 <br>
 <br>
-#### Instantly use your GitPitch slideshow URL to promote, pitch or present absolutely anything.
+#### Menyatukan data dalam satu wadah yang terintegrasi dari seluruh kabupaten / kota di Provinsi Banten.
 
 ---
 
