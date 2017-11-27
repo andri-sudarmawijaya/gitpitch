@@ -12,7 +12,7 @@
 
 @title[PITCHME.md]
 
-#### Tim Pengembang Aplikasi <span class="gold">Dinas Komunikasi Informasi Statistika dan Persandian</span> mempersembahkan
+#### Tim Pengembang Aplikasi <div class="gold">Dinas Komunikasi Informasi Statistika dan Persandian</div> mempersembahkan
 #### Pengembangan Aplikasi,
 #### secara terbuka.
 <br>
