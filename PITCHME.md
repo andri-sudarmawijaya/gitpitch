@@ -96,5 +96,5 @@ Fleksible!
 ---
 
 ### Sekian, dan Terima kasih.<br></br>
-### <span class="gold">Patch are wolcome</span> ;)
+### <span class="gold">Patch are welcome</span> ;)
 [Kunjungi http://dev.bantenprov.go.id @fa[external-link fa-pad-left]](http://dev.bantenprov.go.id/)
