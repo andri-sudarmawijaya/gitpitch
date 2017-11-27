@@ -27,12 +27,12 @@
 #### Dokumentasi menggunakan <span class="gold">Markdown</span>.
 #### Kini favorit kami .. <span class="gold">Git-Commit</span>.
 
----?code=assets/md/hello.md&title=Aplikasi 1. Single Sign On
+---?code=assets/md/hello.md&title=Single Sign On
 
 <br>
-#### Create slideshow content using GitHub Flavored Markdown in your favorite editor.
+#### Satu identitas untuk dapat mengakses seluruh aplikasi.
 
-<span class="aside">It's as easy as README.md with simple slide-delimeters (---)</span>
+<span class="aside">akan diperkenalkan dengan istilah Banten Satu Login (---)</span>
 
 ---
 
