@@ -42,9 +42,9 @@
 <br>
 
 ```shell
-- Setiap pimpinan dapat melihat aktifitas sesuai kedudukannya
-- Data diberikan oleh setiap aplikasi yang terhubung,
-$ menggunakan web services
+- Setiap pimpinan dapat melihat aktifitas sesuai kedudukannya;
+- Data diperbaharui oleh setiap aplikasi yang terhubung menggunakan web services;
+- Cukup melalui satu alamat
 
 Done!
 ```
