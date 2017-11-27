@@ -102,8 +102,8 @@ Fleksible!
 #### Distro Linux yang dikembangkan Pemerintah Provinsi Banten  
 #### Mengurangi biaya lisensi OS
 #### Lebih aman dalam hal serangan virus dan malware
-#### Sistem Informasi Barang Baerah
-#### SOP Online
+#### Dapat dikembangkan sesuai kebutuhan
+#### Membantu menciptakan ahli - ahli komputer
 
 ---
 
