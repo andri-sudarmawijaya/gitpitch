@@ -84,16 +84,17 @@ Fleksible!
 
 @title[Feature Rich]
 
-### <span class="gold">Fitur lainnya</span>
+### <span class="gold">Feature Rich</span>
 
-#### Dapat dipresentasikan secara online atau offline
-#### presentasi dapat di cetak sebagai PDF
+#### Dapat dipresentasikan secara online maupun offline
+#### With Speaker Notes Support
+#### File dan Presentasi dapat dicetak dalam format PDF
 #### Auto-Generated Table-of-Contents
 #### Share Presentation on Twitter or LinkedIn
 
 ---
 
-### Go for it.
-### Just add <span class="gold">PITCHME.md</span> ;)
+### Sekian.
+### Terima kasih <span class="gold">PITCHME.md</span> ;)
 <br>
-[Click here to learn more @fa[external-link fa-pad-left]](https://github.com/gitpitch/gitpitch/wiki)
+[Silahkan kunjungi halaman kami @fa[external-link fa-pad-left]](http://dev.bantenprov.go.id/)
