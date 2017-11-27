@@ -41,6 +41,8 @@
 ### <span class="gold">Dashboard Pimpinan</span>
 
 ![GitPitch Slideshow URLs](assets/images/gp-slideshow-urls.png)
+![dashboard-pimpinan](images/dashboard-pimpinan-2017-11-27-11-29-15.png)
+
 
 <br>
 ```shell
@@ -63,6 +65,7 @@ Fleksible!
 ### <span class="gold">Banten Opendata!</span>
 <br>
 [Banten satu data dengan konsep terbuka](http://dataset.dev.bantenprov.go.id/)
+
 <br>
 <br>
 #### Menyatukan data dalam satu wadah yang terintegrasi dari seluruh kabupaten / kota di Provinsi Banten.
