@@ -40,7 +40,7 @@
 
 ### <span class="gold">Dashboard Pimpinan</span>
 <br>
-[![cover-dashboard-pimpinan](images/dashboard-pimpinan-2017-11-27-11-29-15.png](images/dashboard-pimpinan-2017-11-27-11-29-15.png)
+[![cover-dashboard-pimpinan](images/dashboard-pimpinan-2017-11-27-11-29-15.png]
 
 ```shell
 - Setiap pimpinan dapat melihat aktifitas sesuai kedudukannya;
