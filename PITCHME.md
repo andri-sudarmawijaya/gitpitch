@@ -25,9 +25,9 @@
 <br>
 #### Kode disimpan di <span class="gold">Github</span>.
 #### Dokumentasi menggunakan <span class="gold">Markdown</span>.
-#### Then <span class="gold">Git-Commit</span>.
+#### Kini favorit kami .. <span class="gold">Git-Commit</span>.
 
----?code=assets/md/hello.md&title=Step 1. PITCHME.md
+---?code=assets/md/hello.md&title=Aplikasi 1. Single Sign On
 
 <br>
 #### Create slideshow content using GitHub Flavored Markdown in your favorite editor.
@@ -36,7 +36,7 @@
 
 ---
 
-@title[Step 2. Git-Commit]
+@title[Aplikasi 2. Dashboard Pimpinan]
 
 ### <span class="gold">STEP 2. GIT-COMMIT</span>
 <br>
