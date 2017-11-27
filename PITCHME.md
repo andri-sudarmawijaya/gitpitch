@@ -2,10 +2,10 @@
 
 # Git<span class="gold">Pitch</span>
 
-#### Markdown Presentations For Everyone on Git.*
+#### Forum Data Presentation on Git.*
 <br>
 <br>
-<span class="byline">[ GitHub, GitLab, Bitbucket, GitBucket, Gitea, Gogs ]</span>
+<span class="byline">[ Serang, 27 November 2017 ]</span>
 
 ---
 
