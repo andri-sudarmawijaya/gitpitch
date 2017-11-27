@@ -23,7 +23,7 @@
 #### Tidak ada lagi <span class="gray">kode tersembunyi</span>.
 #### Berkerja <span class="gray">berkolaborasi</span>.
 <br>
-#### Kode disimpan di <span class="gold">Github</span>.
+#### Kode disimpan di <span class="gold">[Github](https://github.com/bantenprov)</span>.
 #### Dokumentasi menggunakan <span class="gold">Markdown</span>.
 #### Kini favorit kami .. <span class="gold">Git-Commit</span>.
 
@@ -84,11 +84,11 @@ Fleksible!
 
 @title[Feature Rich]
 
-### <span class="gold">Feature Rich</span>
+### <span class="gold">Fitur lainnya</span>
 
 #### Dapat dipresentasikan secara online maupun offline
 #### With Speaker Notes Support
-#### File dan Presentasi dapat dicetak dalam format PDF
+#### Dapat dicetak dalam format PDF
 #### Auto-Generated Table-of-Contents
 #### Share Presentation on Twitter or LinkedIn
 
