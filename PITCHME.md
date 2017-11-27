@@ -60,7 +60,7 @@ Fleksible!
 
 ### <span class="gold">Banten Opendata!</span>
 <br>
-![GitPitch Slideshow URLs](http://dataset.dev.bantenprov.go.id/)
+[Banten opendata](http://dataset.dev.bantenprov.go.id/)
 <br>
 <br>
 #### Menyatukan data dalam satu wadah yang terintegrasi dari seluruh kabupaten / kota di Provinsi Banten.
