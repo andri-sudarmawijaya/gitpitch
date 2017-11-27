@@ -38,13 +38,13 @@
 
 @title[Aplikasi 2. Dashboard Pimpinan]
 
-### <span class="gold">STEP 2. GIT-COMMIT</span>
+### <span class="gold">Dashboard Pimpinan</span>
 <br>
 
 ```shell
-$ git add PITCHME.md
-$ git commit -m "New slideshow content."
-$ git push
+- Setiap pimpinan dapat melihat aktifitas sesuai kedudukannya
+- Data diberikan oleh setiap aplikasi yang terhubung,
+$ menggunakan web services
 
 Done!
 ```
