@@ -76,7 +76,7 @@ Fleksible!
 #### Mendukung berbagai format file.
 <br>
 #### <span class="gold">Dilengkapi dengan Document Management System...</span>
-#### [DMS Provinsi Banten](http://dms-01.dev.bantenprov.go.id/)
+[DMS Provinsi Banten](http://dms-01.dev.bantenprov.go.id/)
 #### Ditulis juga dalam format terbuka;
 #### Membuka peluang kontibusi masyarakat untuk pengembangan.
 
