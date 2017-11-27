@@ -69,10 +69,10 @@ Fleksible!
 
 @title[Slide Rich]
 
-### <span class="gold">Slide Rich</span>
+### <span class="gold">Master Table</span>
 
-#### Code Presenting for Blocks, Files, and GISTs
-#### Image, Video, Chart, and Math Slides
+#### Data tunggal untuk pengeolaan nama perangkat daerah,
+#### Data tersetruktur berdasarkan organisasi dan kelompok
 #### Multiple Themes with Easy Customization
 <br>
 #### <span class="gold">Plus collaboration is built-in...</span>
