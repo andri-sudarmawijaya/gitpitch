@@ -95,6 +95,6 @@ Fleksible!
 ---
 
 ### Sekian.
-### Terima kasih <span class="gold">PITCHME.md</span> ;)
+### Terima kasih <div class="gold">Patch are wolcome</div> ;)
 <br>
-[Silahkan kunjungi halaman kami @fa[external-link fa-pad-left]](http://dev.bantenprov.go.id/)
+[Kunjungi http://dev.bantenprov.go.id @fa[external-link fa-pad-left]](http://dev.bantenprov.go.id/)
