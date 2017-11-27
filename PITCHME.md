@@ -39,9 +39,8 @@
 @title[Aplikasi 2. Dashboard Pimpinan]
 
 ### <span class="gold">Dashboard Pimpinan</span>
+![dashboard-pimpinan](https://github.com/andri-sudarmawijaya/gitpitch/blob/forum-data/images/dashboard-pimpinan-2017-11-27-11-29-15.png)
 <br>
-[![dashboard-pimpinan](https://github.com/andri-sudarmawijaya/gitpitch/blob/forum-data/images/dashboard-pimpinan-2017-11-27-11-29-15.png]
-
 ```shell
 - Setiap pimpinan dapat melihat aktifitas sesuai kedudukannya;
 - Data diperbaharui oleh setiap aplikasi yang terhubung menggunakan web services;
