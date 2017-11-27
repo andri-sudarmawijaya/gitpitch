@@ -87,11 +87,11 @@ Fleksible!
 
 ### <span class="gold">Fitur lainnya</span>
 
-#### Portal Pemerintah Provinsi Banten  
+#### Portal Pemerintah Provinsi Banten
 #### E-pormas
-#### Informasi Pelayanan Masyarakat
+#### [Informasi Pelayanan Kesehatan](http://yankes-01.dev.bantenprov.go.id/)
 #### Sistem Informasi Barang Baerah
-#### SOP Online
+#### [SOP Online](http://sop-01.dev.bantenprov.go.id/)
 
 ---
 
