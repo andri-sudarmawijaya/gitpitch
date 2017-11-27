@@ -84,11 +84,10 @@ Fleksible!
 
 @title[Feature Rich]
 
-### <span class="gold">Feature Rich</span>
+### <span class="gold">Fitur lainnya</span>
 
-#### Present Online or Offline
-#### With Speaker Notes Support
-#### Print Presentation as PDF
+#### Dapat dipresentasikan secara online atau offline
+#### presentasi dapat di cetak sebagai PDF
 #### Auto-Generated Table-of-Contents
 #### Share Presentation on Twitter or LinkedIn
 
