@@ -2,7 +2,7 @@
 
 # Forum<span class="gold">Data</span>
 
-#### Forum Data Presentation on Git,*
+#### Presentation on Git,*
 #### Ballroom Bappeda Provinsi Banten.*
 <br>
 <br>
@@ -12,18 +12,19 @@
 
 @title[PITCHME.md]
 
-#### GitPitch turns <span class="gold">PITCHME.md</span> into
-#### interactive,
-#### online and offline slideshows.
+#### Tim Pengembang Aplikasi <span class="gold">Dinas Komunikasi Informasi Statistika dan Persandian</span> mempersembahkan
+#### Pengembangan Aplikasi,
+#### secara terbuka.
 <br>
-<span class="aside">Just like this one...</span>
+<span class="aside">kami tidak hanya membuat program...</span>
 
 ---
 
-#### No more <span class="gray">Keynote</span>.
-#### No more <span class="gray">Powerpoint</span>.
+#### Tidak ada lagi <span class="gray">kode tersembunyi</span>.
+#### Berkerja <span class="gray">berkolaborasi</span>.
 <br>
-#### Just <span class="gold">Markdown</span>.
+#### Kode disimpan di <span class="gold">Github</span>.
+#### Dokumentasi menggunakan <span class="gold">Markdown</span>.
 #### Then <span class="gold">Git-Commit</span>.
 
 ---?code=assets/md/hello.md&title=Step 1. PITCHME.md
