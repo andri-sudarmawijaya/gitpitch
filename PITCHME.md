@@ -71,13 +71,14 @@ Fleksible!
 
 ### <span class="gold">Master Table</span>
 
-#### Data tunggal untuk pengeolaan nama perangkat daerah,
-#### Data tersetruktur berdasarkan organisasi dan kelompok
-#### Multiple Themes with Easy Customization
+#### Sumber Data tunggal untuk pengelolaan aplikasi;
+#### Terstruktur berdasarkan organisasi dan kelompok;
+#### Mendukung berbagai format file.
 <br>
-#### <span class="gold">Plus collaboration is built-in...</span>
-#### Your Slideshow is Part of Your Project
-#### Under Git Version Control within Your Git Repo
+#### <span class="gold">Dilengkapi dengan Document Management System...</span>
+#### [Document Management System](http://dms-01.dev.bantenprov.go.id/)
+#### Ditulis juga dalam format terbuka;
+#### Membuka peluang kontibusi masyarakat untuk pengembangan.
 
 ---
 
