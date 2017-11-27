@@ -39,10 +39,7 @@
 @title[Aplikasi 2. Dashboard Pimpinan]
 
 ### <span class="gold">Dashboard Pimpinan</span>
-
-![GitPitch Slideshow URLs](assets/images/gp-slideshow-urls.png)
 ![dashboard-pimpinan](images/dashboard-pimpinan-2017-11-27-11-29-15.png)
-
 
 <br>
 ```shell
