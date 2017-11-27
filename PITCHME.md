@@ -46,13 +46,13 @@
 - Data diperbaharui oleh setiap aplikasi yang terhubung menggunakan web services;
 - Cukup melalui satu alamat
 
-Done!
+Fleksible!
 ```
 
-@[1](Add your PITCHME.md slideshow content file.)
-@[2](Commit PITCHME.md to your local repo.)
-@[3](Push PITCHME.md to your public repo and you're done!)
-@[5](Supports GitHub, GitLab, Bitbucket, GitBucket, Gitea, and Gogs.)
+@[1](Berbeda unit kerja akan menampilkan dashboard yang berbeda.)
+@[2](Perubahan data diperbaharui seketika atau periodikal.)
+@[3](Satu alamat site untuk eperluan seluruh dashboard)
+@[5](Dapat ditampilkan pada perangkat bergerak maupun layar lebar.)
 
 ---
 
