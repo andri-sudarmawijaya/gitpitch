@@ -95,6 +95,19 @@ Fleksible!
 
 ---
 
+@title[Distro Linux]
+
+### <span class="gold">Bantos</span>
+
+#### Distro Linux yang dikembangkan Pemerintah Provinsi Banten  
+#### Mengurangi biaya lisensi OS
+#### Lebih aman dalam hal serangan virus dan malware
+#### Sistem Informasi Barang Baerah
+#### SOP Online
+
+---
+
+
 ### Sekian, dan Terima kasih.<br></br>
 ### <span class="gold">Patch are welcome</span> ;)
 [Kunjungi http://dev.bantenprov.go.id @fa[external-link fa-pad-left]](http://dev.bantenprov.go.id/)
