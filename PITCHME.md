@@ -85,7 +85,7 @@ Fleksible!
 
 @title[Aplikasi Lainnya]
 
-### <span class="gold">Fitur lainnya</span>
+### <span class="gold">Aplikasi lainnya</span>
 
 #### Portal Pemerintah Provinsi Banten
 #### E-pormas
